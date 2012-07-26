@@ -6,6 +6,9 @@ Some of the scripts depend on the webscraping library:
 http://code.google.com/p/webscraping/
 
 
+csv2mysql.py
+    Script to automatically parse a CSV file, create appropriate MySQL table, and write CSV data to the table
+
 filter_emails.py
     Find the most useful email address for a domain
 
