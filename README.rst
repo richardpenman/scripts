@@ -18,6 +18,9 @@ reverse_engineer.py
 transform.py
     Transform file between types: csv, json, xml, xls
 
+uk_coordinates.py
+    Convert coordinates between UK Easting / Northing and Latitude / Longitude
+
 webkit_automate.py
     Example of how to automate website interaction with webkit
 
