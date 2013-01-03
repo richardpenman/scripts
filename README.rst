@@ -6,17 +6,11 @@ Some of the scripts depend on the webscraping library:
 http://code.google.com/p/webscraping/
 
 
-csv2mysql.py
-    Script to automatically parse a CSV file, create appropriate MySQL table, and write CSV data to the table
-
 filter_emails.py
     Find the most useful email address for a domain
 
 get_emails.py
     Crawl a website to find the emails
-
-reverse_engineer.py 
-    Detect the technology used by a website, such as Apache, JQuery, and Wordpress.
 
 transform.py
     Transform file between types: csv, json, xml, xls
