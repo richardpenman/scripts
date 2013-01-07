@@ -12,6 +12,9 @@ filter_emails.py
 get_emails.py
     Crawl a website to find the emails
 
+split_spreadsheet.py
+    Split a spreadsheet into multiple smaller files
+
 transform.py
     Transform file between types: csv, json, xml, xls
 
